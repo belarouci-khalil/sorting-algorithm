@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679839288 source:c:\users\mohammed\desktop\myproject\algorithme de tri\algorithme de tri s2\sorting algorithm s2\main.c
+	<stdio.h>
+	<stdlib.h>
+
